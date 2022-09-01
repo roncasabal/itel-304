@@ -1,0 +1,12 @@
+x = int (input("Please enter the first side of the triangle:"))
+y = int (input("Please enter the second side of the triangle:"))
+z = int (input("Please enter the third side of the triangle:"))
+
+p = (x+y+z)
+s = p/2
+
+area =(s*(s-x)*(s-y)*(s-z)) **0.5
+
+print("The area of triangle is:",area)
+print("The perimeter of triangle is:",p)
+print("The semi perimeter of triangle is:",s)
