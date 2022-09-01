@@ -1,0 +1,5 @@
+first = int (input("Please enter the first number : "))
+second = int (input("Please enter the second number : "))
+outcome = first + second
+print(first," + ",second," = ", outcome)
+
