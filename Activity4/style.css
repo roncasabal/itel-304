@@ -1,0 +1,13 @@
+h1 {
+    border: 2px rgba(238, 238, 238, 0.53) solid;
+    color: #EEEEEE;
+    text-align: center;
+    padding: 20px;
+    background-color: #0bb890;
+
+}
+div{
+    width: 100%;
+    border-radius: 10px;
+    background-color: #0bb8aa;
+    padding: 40px;
